@@ -1,0 +1,212 @@
+Vrai-Le noyau de Linux a été créé en 1991 par Linus Torvalds.
+vrai-Linux est un système d'exploitation libre.
+Faux-Le protocole HTTP est utilisé pour transférer des fichiers de manière sécurisée.
+Vrai-Le système de fichiers FAT32 est compatible avec de nombreux systèmes d'exploitation.
+Vrai-Le protocole FTP est utilisé pour transférer des fichiers sur Internet.
+Vrai-Un virus informatique est un logiciel malveillant qui peut endommager des données.
+Faux-Le WiFi nécessite toujours un câble pour fonctionner.
+Vrai-L'IPv4 utilise une adresse à 32 bits.
+Faux-Le protocole SSH est utilisé pour un transfert de fichiers sans sécurité.
+Faux-Le langage Python est compilé avant d'être exécuté.
+Vrai-Un parefeu est utilisé pour contrôler les connexions réseau entrantes et sortantes.
+Faux-Le système d'exploitation Windows est open source.
+Vrai-La virtualisation permet de faire fonctionner plusieurs systèmes d'exploitation sur la même machine.
+Faux-Le langage JavaScript est utilisé pour créer des systèmes d'exploitation.
+Vrai-Un SSD est plus rapide qu'un HDD.
+Vrai-Les serveurs DNS permettent de traduire les noms de domaine en adresses IP.
+Faux-Le langage HTML est un langage de programmation.
+Vrai-Le protocole HTTPS est une version sécurisée de HTTP.
+Faux-La mémoire vive (RAM) conserve les données même lorsque l'ordinateur est éteint.
+Vrai-La blockchain est une technologie de stockage et de transmission d'informations sécurisée.
+Vrai-Le langage C est utilisé pour développer des systèmes d'exploitation.
+Faux-Le protocole IMAP est utilisé pour envoyer des emails.
+Vrai-Un logiciel open source permet à chacun de modifier et redistribuer son code.
+Faux-Les serveurs DHCP attribuent des adresses IP statiques.
+Vrai-Un shell est une interface qui permet d'interagir avec un système d'exploitation.
+Faux-L'algorithme de tri rapide (QuickSort) n'est pas basé sur la méthode de diviser pour régner.
+Vrai-Le système d'exploitation macOS est développé par Apple.
+Faux-Le RAID 1 offre une meilleure performance que le RAID 0.
+Vrai-Le système de gestion de base de données MySQL est opensource.
+Faux-Le langage C++ est une version simplifiée de C.
+Vrai-La commande 'chmod' permet de modifier les permissions des fichiers sous Linux.
+Vrai-Le DNS est responsable de la résolution des noms de domaine.
+Faux-La mémoire cache est plus lente que la mémoire RAM.
+Vrai-Git est un système de gestion de version décentralisé.
+Faux-Une adresse IP est un nom de domaine.
+Vrai-Un réseau local (LAN) permet de connecter plusieurs ordinateurs dans un espace restreint.
+Faux-Le protocole UDP est plus fiable que le protocole TCP.
+Vrai-Le RAID 5 utilise la parité pour assurer la redondance des données.
+Vrai-Le protocole SMTP est utilisé pour l'envoi d'emails.
+Faux-Le langage Ruby est uniquement utilisé pour le développement web.
+Vrai-Docker permet de créer des environnements virtuels appelés containers.
+Faux-Le protocole POP3 permet de lire les emails sans les supprimer du serveur.
+Vrai-Un script shell permet d'automatiser des tâches dans un terminal.
+Faux-Linux est seulement utilisé sur des serveurs.
+Vrai-La commande 'ls' liste les fichiers dans un répertoire sous Linux.
+Faux-Le langage SQL est utilisé pour développer des applications web.
+Vrai-Le cloud computing permet de stocker et d'accéder à des données sur des serveurs distants.
+Faux-L'open source n'est pas compatible avec les licences commerciales.
+Vrai-Le protocole ICMP est utilisé pour tester la connectivité réseau avec la commande 'ping'.
+Vrai-Un fichier compressé occupe moins d'espace disque.
+Faux-Le RAID 0 est utilisé pour la redondance des données.
+Vrai-Le port 80 est utilisé par défaut pour HTTP.
+Faux-Le protocole SSH est uniquement utilisé pour transférer des fichiers.
+Vrai-La RAM est un type de mémoire volatile.
+Faux-Le langage Python est un langage compilé.
+Vrai-L'architecture x86 est couramment utilisée dans les ordinateurs personnels.
+Faux-Le protocole Bluetooth est utilisé pour des connexions à longue portée.
+Vrai-Le logiciel LibreOffice est une alternative open source à Microsoft Office.
+Faux-La commande 'mkdir' supprime un répertoire sous Linux.
+Vrai-L'outil 'grep' est utilisé pour rechercher du texte dans des fichiers.
+Faux-Un botnet est un type de logiciel antivirus.
+Vrai-Le protocole TCP garantit la livraison des paquets dans le bon ordre.
+Faux-L'IPv6 utilise des adresses de 16 bits.
+Vrai-Un certificat SSL permet d'établir une connexion sécurisée entre un serveur et un client.
+Faux-Un noyau est un composant logiciel indépendant du système d'exploitation.
+Vrai-Le moteur de recherche Google utilise un algorithme complexe pour classer les pages web.
+Faux-Le Linux Kernel est écrit en Java.
+Vrai-La commande 'sudo' permet d'exécuter des commandes en tant qu'administrateur sous Linux.
+Faux-Les adresses IP privées sont utilisées pour accéder à Internet.
+Vrai-Le protocole SSH chiffre les données échangées entre un client et un serveur.
+Faux-Les images .jpg sont toujours compressées sans perte.
+Vrai-L'open source est un modèle de développement qui encourage la collaboration.
+Faux-Un mot de passe en texte brut est un mot de passe crypté.
+Vrai-Le chiffrement est utilisé pour sécuriser les données transmises sur Internet.
+Faux-Le langage HTML est utilisé pour la programmation logicielle.
+Vrai-Un fichier avec l'extension .exe est un fichier exécutable sous Windows.
+Faux-Le protocole FTP est plus sécurisé que le protocole HTTP.
+Vrai-Un proxy est utilisé pour filtrer le trafic réseau et masquer l'adresse IP.
+Faux-Le langage Java est uniquement utilisé pour développer des applications mobiles.
+Vrai-La méthode de chiffrement AES est couramment utilisée pour sécuriser les données.
+Faux-L'adresse IP 192.168.0.1 est une adresse publique.
+Vrai-La commande 'rm' supprime des fichiers sous Linux.
+Faux-Le protocole FTP est sécurisé et utilise un cryptage fort.
+Vrai-Les clés SSH permettent d'authentifier des connexions sans mot de passe.
+Faux-Les serveurs DNS ne peuvent pas être piratés.
+Vrai-La commande 'top' permet d'afficher l'utilisation des ressources système sous Linux.
+Faux-Le langage PHP est uniquement utilisé pour les scripts côté client.
+Vrai-La gestion de version permet de suivre les modifications apportées à un code source.
+Faux-Le protocole HTTPS n'est utilisé que pour les pages web privées.
+Vrai-La commande 'df' affiche l'espace disque libre sous Linux.
+Faux-La vitesse d'un disque dur SSD est similaire à celle d'un disque dur mécanique.
+Vrai-La méthode de tri par insertion est une méthode de tri simple mais peu efficace.
+Faux-L'interface USB est utilisée uniquement pour les périphériques de stockage.
+Vrai-L'outil 'curl' permet de transférer des données depuis ou vers un serveur.
+Faux-Le langage JavaScript est utilisé pour écrire des programmes compilés.
+Vrai-La sécurité des réseaux informatiques repose sur des mécanismes tels que le chiffrement et l'authentification.
+Faux-Un fichier avec l'extension .zip est toujours crypté.
+Vrai-Les clés publiques et privées sont utilisées pour le chiffrement asymétrique.
+Faux-Un robot logiciel n'est utilisé que pour envoyer des spams.
+Vrai-La commande 'cp' permet de copier des fichiers sous Linux.
+Faux-Un VPN ne chiffre pas les données échangées sur un réseau.
+Vrai-L'algorithme AES est utilisé pour le chiffrement des données.
+Faux-Le protocole SSL est obsolète et a été remplacé par TLS.
+Vrai-Le terminal sous Linux permet d'exécuter des commandes système.
+Faux-Le langage C# est uniquement utilisé pour les applications web.
+Vrai-La commande 'ps' permet d'afficher les processus en cours d'exécution sous Linux.
+Vrai-Le protocole DNS permet de résoudre les noms de domaine en adresses IP.",
+Faux-Le langage Python est uniquement utilisé pour la programmation orientée objet.",
+Vrai-Un fichier avec l'extension .tar est une archive sans compression.",
+Faux-La commande 'rm' permet de renommer un fichier sous Linux.",
+Vrai-L'IPv4 utilise des adresses à 32 bits.",
+Faux-Un fichier .exe est un fichier texte.",
+Vrai-Un serveur web sert à héberger des sites web.",
+Faux-L'algorithme de recherche binaire ne fonctionne que sur des listes non triées.",
+Vrai-La commande 'ls' affiche la liste des fichiers d'un répertoire sous Linux.",
+Faux-Le langage HTML est un langage de programmation.",
+Vrai-La méthode de chiffrement RSA est un exemple de chiffrement asymétrique.",
+Faux-La commande 'mkdir' supprime un répertoire.",
+Vrai-Le RAID 1 offre une redondance des données.",
+Faux-Le RAID 0 est plus sûr que le RAID 1.",
+Vrai-L'algorithme de tri par insertion est un algorithme simple mais inefficace pour de grandes données.",
+Faux-Le protocole FTP est utilisé pour sécuriser les connexions réseau.",
+Vrai-Le port 22 est généralement utilisé pour SSH.",
+Faux-Les réseaux IPv6 sont compatibles avec les adresses IPv4.",
+Vrai-Le SSH permet de se connecter de manière sécurisée à un autre ordinateur.",
+Faux-Le système de fichiers NTFS est exclusivement utilisé sur macOS.",
+Vrai-Un certificat SSL est utilisé pour sécuriser les connexions sur un site web.",
+Faux-Le langage Python est uniquement utilisé dans des applications scientifiques.",
+Vrai-Un disque dur SSD est plus rapide qu'un disque dur mécanique.",
+Faux-La commande 'mv' est utilisée pour créer des répertoires sous Linux.",
+Vrai-La commande 'chmod' permet de modifier les permissions d'un fichier sous Linux.",
+Faux-Le RAID 5 offre moins de redondance que le RAID 1.",
+Vrai-L'algorithme SHA256 est une méthode de hachage couramment utilisée pour vérifier l'intégrité des données.",
+Faux-Les clés privées sont utilisées pour chiffrer les messages dans un chiffrement asymétrique.",
+Vrai-Un botnet est un ensemble d'ordinateurs compromis contrôlés par un attaquant.",
+Faux-La mémoire cache est utilisée pour stocker des données à long terme.",
+Vrai-La commande 'top' permet d'afficher les processus en cours d'exécution sous Linux.",
+Faux-La commande 'cp' est utilisée pour supprimer un fichier sous Linux.",
+Vrai-Le protocole HTTP permet de récupérer des pages web.",
+Faux-Le langage C++ est uniquement utilisé pour les applications web.",
+Vrai-e langage C est largement utilisé dans le développement des systèmes d'exploitation.",
+Faux-Le protocole IMAP est utilisé pour envoyer des emails.",
+Vrai-Un parefeu peut empêcher des connexions non autorisées à un réseau.",
+Faux-Le WiFi est toujours plus rapide que le câble Ethernet.",
+Vrai-Les VLANs permettent de segmenter un réseau local.",
+Faux-La commande 'grep' supprime les fichiers sous Linux.",
+Vrai-Un VPN permet de créer une connexion sécurisée entre un utilisateur et un réseau.",
+Faux-Le protocole FTP est crypté par défaut.",
+Vrai-Le protocole UDP est plus rapide que le TCP mais ne garantit pas la livraison des paquets.",
+Faux-La commande 'df' est utilisée pour afficher le contenu d'un fichier sous Linux.",
+Vrai-Le protocole IMAP permet de consulter des emails tout en les laissant sur le serveur.",
+Faux-La commande 'ps' permet de supprimer des fichiers sous Linux.",
+Vrai-Un routeur permet de diriger le trafic réseau entre différents réseaux.",
+Faux-Un logiciel antivirus ne peut pas détecter les chevaux de Troie.",
+Vrai-Le système de fichiers FAT32 a une limite de taille de fichier de 4 Go.",
+Faux-Les VPN sont utilisés uniquement pour la navigation anonyme.",
+Vrai-le protocole ICMP est utilisé pour tester la connectivité avec la commande 'ping'.",
+Faux-L'IPv6 utilise des adresses de 32 bits.",
+Vrai-L'algorithme QuickSort est un algorithme de tri efficace.",
+Faux-La commande 'mkdir' est utilisée pour afficher les fichiers dans un répertoire.",
+Vrai-Le protocole SSL a été remplacé par TLS pour améliorer la sécurité.",
+Faux-Un fichier .zip est toujours crypté.",
+Vrai-L'outil 'Wireshark' est utilisé pour analyser les paquets réseau.",
+Faux-Le langage Ruby est uniquement utilisé pour le développement web.",
+Vrai-Le processus de compilation traduit le code source en un programme exécutable.",
+Faux-Le système de fichiers ext4 est uniquement utilisé sur les serveurs.",
+Vrai-La mémoire RAM est volatile et perd ses données lorsque l'ordinateur est éteint.",
+Faux-Le réseau Tor est utilisé pour améliorer la vitesse de navigation.",
+Vrai-Un certificat SSL permet d'assurer la confidentialité des données échangées.",
+Faux-Les serveurs DNS ne peuvent pas être piratés.",
+Vrai-La commande 'ps' est utilisée pour lister les processus en cours sous Linux.",
+Faux-Le protocole UDP est plus fiable que le TCP.",
+Vrai-L'outil 'netstat' permet de visualiser les connexions réseau en cours.",
+Faux-Le port 80 est réservé pour le protocole HTTPS.",
+Vrai-La commande 'tar' permet de créer et extraire des archives sous Linux.",
+Faux-L'algorithme AES est un algorithme de compression.",
+Vrai-Le logiciel Git est un système de gestion de versions décentralisé.",
+Faux-Le protocole IMAP est plus ancien que le protocole POP3.",
+Vrai-Le système d'exploitation Linux est un système open source.",
+Faux-Le protocole DNS est utilisé pour envoyer des emails.",
+Vrai-Le langage Python est couramment utilisé dans le développement de scripts.",
+Faux-Les logiciels open source ne peuvent pas être utilisés dans des environnements commerciaux.",
+Vrai-Un mot de passe sécurisé doit être long et complexe.",
+Faux-Le RAID 10 est plus rapide que le RAID 5.",
+Vrai-L'outil 'curl' permet de transférer des données depuis ou vers un serveur.",
+Faux-Les protocoles TCP et UDP ne sont pas utilisés dans le réseau.",
+Vrai-Le langage Java est souvent utilisé pour le développement d'applications Android.",
+Faux-Le langage Ruby est utilisé uniquement pour le développement d'applications mobiles.",
+Vrai-Le modèle OSI est utilisé pour comprendre et gérer les réseaux.",
+Faux-La commande 'sudo' est utilisée pour afficher les fichiers dans un répertoire.",
+Vrai-Un tunnel VPN permet de sécuriser la communication entre deux points sur Internet.",
+Faux-Les serveurs web Apache ne peuvent être utilisés que sur des serveurs Linux.",
+Vrai-Le protocole HTTP est utilisé pour accéder aux pages web.",
+Faux-Les serveurs DNS sont utilisés uniquement pour l'hébergement de sites web,
+Vrai-La commande 'ls' permet de lister les fichiers d'un répertoire sous Linux.",
+Faux-La commande 'rm' est utilisée pour créer des fichiers sous Linux.",
+Vrai-Le VPN crée une connexion sécurisée entre un utilisateur et un réseau.",
+Faux-Le serveur FTP est utilisé pour envoyer des emails.",
+Vrai-Le système de fichiers ext4 est couramment utilisé sur les systèmes Linux.",
+Faux-Le RAID 1 offre une amélioration des performances par rapport au RAID 0.",
+Vrai-L'algorithme de hachage MD5 est souvent utilisé pour vérifier l'intégrité des fichiers.",
+Faux-L'algorithme de compression gzip est un algorithme de chiffrement.",
+Vrai-Le shell Bash est un interpréteur de commandes sous Linux.",
+Faux-La commande 'chmod' est utilisée pour modifier le contenu d'un fichier.",
+Vrai-Le protocole HTTPS est utilisé pour sécuriser les communications sur Internet.",
+Faux-Le port 80 est utilisé pour des connexions sécurisées.",
+Vrai-Un système d'exploitation opensource permet à chacun de modifier son code source.",
+Faux-Le protocole ARP est utilisé pour envoyer des données sur un réseau local.",
+Vrai-L'algorithme de chiffrement RSA est utilisé pour sécuriser les communications.",
+Faux-Le RAID 0 est utilisé pour créer une copie exacte des données sur plusieurs disques.",
+Vrai-Le DNS est responsable de la résolution des noms de
+
